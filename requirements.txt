@@ -1,0 +1,11 @@
+langchain
+langgraph
+langchain-community
+streamlit
+pydantic
+pandas
+sqlalchemy
+python-dotenv
+requests
+pytest
+rich

@@ -1,0 +1,6 @@
+Great Expectations ValidationError:
+Expectation failed: expect_column_values_to_not_be_null
+Column: customer_email
+Unexpected null percentage: 38.7%
+Allowed threshold: 5%
+Batch: customer_dim_2026_05_20

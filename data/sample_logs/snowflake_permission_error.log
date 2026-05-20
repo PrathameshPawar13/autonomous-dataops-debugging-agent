@@ -1,0 +1,4 @@
+snowflake.connector.errors.ProgrammingError: 002003 (02000):
+SQL access control error:
+Insufficient privileges to operate on schema FINANCE_RAW.
+Role ANALYST_ROLE does not have USAGE privilege on schema FINANCE_RAW.

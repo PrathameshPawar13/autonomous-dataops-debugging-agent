@@ -1,0 +1,5 @@
+2026-05-20 09:14:22 Running with dbt=1.7.4
+2026-05-20 09:14:26 Database Error in model customer_orders_mart (models/marts/customer_orders_mart.sql)
+002003 (42S02): SQL compilation error:
+Object 'RAW.ORDERS.CUSTOMER_ID' does not exist or not authorized.
+Compiled SQL at target/run/project/models/marts/customer_orders_mart.sql

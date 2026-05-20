@@ -1,0 +1,4 @@
+[2026-05-20, 10:35:12 UTC] {taskinstance.py:1937} ERROR - Task failed with exception
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for dag sales_ingestion_pipeline after 300 seconds
+Task: extract_sales_data
+DAG: sales_ingestion_pipeline

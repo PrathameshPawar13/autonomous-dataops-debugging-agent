@@ -1,0 +1,4 @@
+[2026-05-20, 08:42:11 UTC] ERROR - Task transform_customer_data failed.
+Upstream task extract_customer_data did not complete successfully.
+Downstream dbt model customer_dim could not run.
+Reason: upstream dependency failed.
